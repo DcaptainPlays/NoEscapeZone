@@ -1,0 +1,6 @@
+name: NoEscapeZone
+main: NoEscapeZone\Main
+version: 1.0.0
+api: 5.0.0
+author: DcaptainPlays
+description: Prevents players from leaving a specific area while in combat.
